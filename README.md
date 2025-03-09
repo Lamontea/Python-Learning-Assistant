@@ -1,0 +1,1 @@
+Just a basic learning assistant that gives you a suggestion on what you should learn based on your career. The careers included in this is  cybersecurity, game development, data analysis, web development, and machine learning
